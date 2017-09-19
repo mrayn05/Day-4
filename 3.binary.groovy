@@ -5,9 +5,12 @@ int power (int base, int exponent) {
 	int exponent = Integer.parseInt(System.console().readLine());
 	int num = 0;
 	
-	for (int i = 1; i < exponent; i++); {
+	for (i = 1; i < exponent; i++); {
 		num = base * exponent;
 	}
 	System.out.println(num);
 	return num;
 }
+}
+
+//blaghgsdds
